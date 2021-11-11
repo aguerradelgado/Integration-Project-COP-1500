@@ -1,5 +1,5 @@
 # Integration-Project-COP-1500
-This is my Integration Project from my COP 1500 class
+This is my Integration Project from my COP 1500 class.
 The project is under main.py
 # Desc: 
 Allows the user to select what region of Peru they want to learn more about.
