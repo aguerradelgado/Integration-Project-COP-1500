@@ -1,4 +1,4 @@
-# Integration-Project-COP-1500
+# Integration Project for Introduction to Computer Science Course 
 This is my Integration Project from my COP 1500 class.
 The project is under main.py
 # Desc: 
